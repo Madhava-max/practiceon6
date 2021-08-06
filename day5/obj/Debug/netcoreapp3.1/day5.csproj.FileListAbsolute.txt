@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\practiceon5\day5\bin\Debug\netcoreapp3.1\day5.exe
+C:\Users\kotha\source\repos\practiceon5\day5\bin\Debug\netcoreapp3.1\day5.deps.json
+C:\Users\kotha\source\repos\practiceon5\day5\bin\Debug\netcoreapp3.1\day5.runtimeconfig.json
+C:\Users\kotha\source\repos\practiceon5\day5\bin\Debug\netcoreapp3.1\day5.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\practiceon5\day5\bin\Debug\netcoreapp3.1\day5.dll
+C:\Users\kotha\source\repos\practiceon5\day5\bin\Debug\netcoreapp3.1\day5.pdb
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.AssemblyInfo.cs
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.dll
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.pdb
+C:\Users\kotha\source\repos\practiceon5\day5\obj\Debug\netcoreapp3.1\day5.genruntimeconfig.cache
